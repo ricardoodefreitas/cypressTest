@@ -32,7 +32,7 @@ cypress-bdd-project
 1. **Clone o repositorio**:
    ```
    git clone <repository-url>
-   cd cypress-bdd-project
+   cd cypress-project
    ```
 
 2. **Instale as dependencias**:
